@@ -8,23 +8,25 @@
     "blog": "https://decamuse.hashnode.dev/",
     "linkedin": "https://www.linkedin.com/in/siddharth-bansal-968531307/"
   },
-  "mentor": {
-    "name": "Rishab Kumar Jha",
-    "email": "rishabkjha@example.com",
-    "avatar": "https://github.com/rishab87.png",
-    "role": "Project Mentor"
-  },
-  "mentor": {
-    "name": "Jigyasu Rajput",
-    "email": "jigyasu783@gmail.com",
-    "avatar": "https://github.com/JigyasuRajput.png",
-    "role": "Project Mentor"
-  },
+  "mentors": [
+    {
+      "name": "Rishab Kumar Jha",
+      "email": "rishabkjha@example.com",
+      "avatar": "https://github.com/rishab87.png",
+      "role": "Project Mentor"
+    },
+    {
+      "name": "Jigyasu Rajput",
+      "email": "jigyasu783@gmail.com",
+      "avatar": "https://github.com/JigyasuRajput.png",
+      "role": "Project Mentor"
+    }
+  ]
   "project": {
     "title": "Blockchain refinement and gamification finishing",
     "description": "Refining the whole blockchain and systems rewarding bounties, gamification tasks, gateways and incomplete endpoints",
     "organization": "OWASP-BLT",
     "timeline": "May 2026 - August 2026",
     "repository": "https://github.com/OWASP-BLT/BLT"
-  },
+  }
 }
