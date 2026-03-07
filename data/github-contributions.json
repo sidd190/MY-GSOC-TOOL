@@ -1,10 +1,107 @@
 {
   "stats": {
-    "commits": 0,
-    "pullRequests": 0,
-    "issues": 0,
-    "reviews": 0
+    "commits": 190,
+    "pullRequests": 28,
+    "issues": 10,
+    "reviews": 39
   },
-  "contributions": [],
-  "lastUpdated": "2026-02-19T00:35:46.717Z"
+  "contributions": [
+    {
+      "title": "Feature/advanced seeker profiles",
+      "description": "Pull Request #48 in OWASP-BLT/BLT-Jobs",
+      "date": "2026-03-02T17:10:00Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/48"
+    },
+    {
+      "title": "Remove offending job",
+      "description": "Pull Request #43 in OWASP-BLT/BLT-Jobs",
+      "date": "2026-03-01T08:52:11Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/43"
+    },
+    {
+      "title": "Feature/analytics and salary parsing",
+      "description": "Pull Request #42 in OWASP-BLT/BLT-Jobs",
+      "date": "2026-03-01T08:09:32Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/42"
+    },
+    {
+      "title": "Handle failed scraping",
+      "description": "Pull Request #41 in OWASP-BLT/BLT-Jobs",
+      "date": "2026-03-01T07:12:01Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/41"
+    },
+    {
+      "title": "Feat/add search filters jobs and seekers",
+      "description": "Pull Request #39 in OWASP-BLT/BLT-Jobs",
+      "date": "2026-02-28T09:24:58Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Jobs/pull/39"
+    },
+    {
+      "title": "Add filter to show only PRs raised to OWASP-BLT repositories.",
+      "description": "Pull Request #42 in OWASP-BLT/BLT-Hackathons",
+      "date": "2026-02-28T07:17:18Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Hackathons/pull/42"
+    },
+    {
+      "title": "Added project l",
+      "description": "Pull Request #22 in OWASP-BLT/BLT-Ideas",
+      "date": "2026-02-02T13:23:59Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Ideas/pull/22"
+    },
+    {
+      "title": "Updated project B in detail",
+      "description": "Pull Request #20 in OWASP-BLT/BLT-Ideas",
+      "date": "2026-02-02T12:37:12Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Ideas/pull/20"
+    },
+    {
+      "title": "Add 2 project ideas as discussed on Slack",
+      "description": "Pull Request #4 in OWASP-BLT/BLT-Ideas",
+      "date": "2026-01-29T19:11:38Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Ideas/pull/4"
+    },
+    {
+      "title": "Use closed pr assignee remove logic",
+      "description": "Pull Request #5479 in OWASP-BLT/BLT",
+      "date": "2026-01-16T10:49:14Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5479"
+    },
+    {
+      "title": "Add PR-closed-assignee remove logic to be used by workflows",
+      "description": "Pull Request #103 in OWASP-BLT/BLT-Action",
+      "date": "2026-01-16T10:41:09Z",
+      "url": "https://github.com/OWASP-BLT/BLT-Action/pull/103"
+    },
+    {
+      "title": "Revert interactive runtime-editing mode",
+      "description": "Pull Request #14 in OWASP-BLT/MY-GSOC-TOOL",
+      "date": "2026-01-12T08:07:39Z",
+      "url": "https://github.com/OWASP-BLT/MY-GSOC-TOOL/pull/14"
+    },
+    {
+      "title": "Adding myself as mentee",
+      "description": "Pull Request #5418 in OWASP-BLT/BLT",
+      "date": "2026-01-09T07:27:31Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5418"
+    },
+    {
+      "title": "Allow users to link GitHub and get 10 bacon tokens as reward.",
+      "description": "Pull Request #5200 in OWASP-BLT/BLT",
+      "date": "2025-12-07T08:48:29Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5200"
+    },
+    {
+      "title": "Fix transactionError on selenium tests",
+      "description": "Pull Request #5163 in OWASP-BLT/BLT",
+      "date": "2025-12-03T17:39:10Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5163"
+    },
+    {
+      "title": "Add migration to enforce unique email with safe duplicate removal",
+      "description": "Pull Request #5148 in OWASP-BLT/BLT",
+      "date": "2025-12-02T15:51:00Z",
+      "url": "https://github.com/OWASP-BLT/BLT/pull/5148"
+    }
+  ],
+  "lastUpdated": "2026-03-07T06:50:25.406Z"
 }

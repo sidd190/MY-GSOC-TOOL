@@ -14,7 +14,12 @@
     "organization": "OWASP - BLT",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/OWASP-BLT/BLT-Rewards"
+      "https://github.com/OWASP-BLT/BLT",
+      "https://github.com/OWASP-BLT/BLT-Jobs",
+      "https://github.com/OWASP-BLT/BLT-Ideas",
+      "https://github.com/OWASP-BLT/BLT-Action",
+      "https://github.com/OWASP-BLT/BLT-Hackathons",
+      "https://github.com/OWASP-BLT/MY-GSOC-TOOL"
     ]
   },
   "slack": {
